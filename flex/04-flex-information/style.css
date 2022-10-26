@@ -11,11 +11,13 @@ img {
   font-size: 36px;
   font-weight: 900;
   text-align: center;
+  border-bottom-width: 32px;
 }
 
 .middle {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
+  gap: 52px;
 }
 
 .entry {
